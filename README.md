@@ -1,3 +1,3 @@
-Link do strony na git:
+Linki:
 
-https://agh-narzedzia-informatyczne.github.io/UczelnianeDK/
+strona GitHub: https://agh-narzedzia-informatyczne.github.io/UczelnianeDK/
